@@ -1,0 +1,10 @@
+C:\Users\Eren\source\repos\KapsüllemeÖrnek\KapsüllemeÖrnek\bin\Debug\KapsüllemeÖrnek.exe.config
+C:\Users\Eren\source\repos\KapsüllemeÖrnek\KapsüllemeÖrnek\bin\Debug\KapsüllemeÖrnek.exe
+C:\Users\Eren\source\repos\KapsüllemeÖrnek\KapsüllemeÖrnek\bin\Debug\KapsüllemeÖrnek.pdb
+C:\Users\Eren\source\repos\KapsüllemeÖrnek\KapsüllemeÖrnek\obj\Debug\KapsüllemeÖrnek.csprojAssemblyReference.cache
+C:\Users\Eren\source\repos\KapsüllemeÖrnek\KapsüllemeÖrnek\obj\Debug\KapsüllemeÖrnek.Form1.resources
+C:\Users\Eren\source\repos\KapsüllemeÖrnek\KapsüllemeÖrnek\obj\Debug\KapsüllemeÖrnek.Properties.Resources.resources
+C:\Users\Eren\source\repos\KapsüllemeÖrnek\KapsüllemeÖrnek\obj\Debug\KapsüllemeÖrnek.csproj.GenerateResource.cache
+C:\Users\Eren\source\repos\KapsüllemeÖrnek\KapsüllemeÖrnek\obj\Debug\KapsüllemeÖrnek.csproj.CoreCompileInputs.cache
+C:\Users\Eren\source\repos\KapsüllemeÖrnek\KapsüllemeÖrnek\obj\Debug\KapsüllemeÖrnek.exe
+C:\Users\Eren\source\repos\KapsüllemeÖrnek\KapsüllemeÖrnek\obj\Debug\KapsüllemeÖrnek.pdb
